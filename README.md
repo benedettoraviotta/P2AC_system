@@ -11,5 +11,5 @@ Plugin repository: https://github.com/benedettoraviotta/moodle-assignsubmission_
 Docker backend: https://hub.docker.com/r/benni54/p2ac-backend
 
 
-DOCUMENTAZOINE : a breve.
+DOCUMENTAZOINE : Documentazione/Documentazione_P2AC.pdf
 
