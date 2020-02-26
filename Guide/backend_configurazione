@@ -1,0 +1,24 @@
+ESECUZIONE BACKEND 
+
+Il web service di backend può essere scaricato dal seguente link: https://github.com/benedettoraviotta/Prog2AutomaticCorrections-backend.git .
+
+Per eseguirlo bisogna eseguire da terminale e nella root directory del web serive il seguente comando: "mvn package" e successivamente 
+il comando "java -jar Prog2AutomaticCorrections-1.1.0-SNAPSHOT.jar" .
+
+
+ESECUZIONE BACKEND tramite DOCKER
+
+Eseguire da terminale il seguente comando: docker run -p 8080:8080 benny54/p2ac-backend:1.1.0-SNAPSHOT
+(il primo 8080 può essere sostituto dalla porta che si desidera assegnare al processo, la seconda va lasciata così.)
+
+(Vedere sezione demo della documentazione per esempio.)
+
+
+CONFIGURAZIONE BACKEND MOODLE
+
+Per far si che il backend possa comunicare con il plugin è necessario inserire da moodle l'indirizzo URL del web service.
+Seguire il seguente percorso per inserire URL:
+
+Site administration -> plugins -> Prog 2 Automatic Corrector
+
+(Vedere sezione demo della documentazione per esempio.)
