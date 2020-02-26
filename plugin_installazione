@@ -1,0 +1,7 @@
+INSTALLAZIONE:
+
+Scaricare la cartella contenente il plugin dal seguente link: https://github.com/benedettoraviotta/moodle-assignsubmission_p2ac.git;
+
+Creare una cartella denominata "p2ac" al path: '<pathMoodle>/mod/assign/submission/p2ac' e inserire, nella cartella appena creata, il contenuto del file zip 
+scaricato precedentemente.
+
