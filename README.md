@@ -5,3 +5,9 @@ L’obiettivo del sistema è quello di fornire agli studenti un feedback immedia
 
 LINK IMPORTANTI:
 
+Backend repository: https://github.com/benedettoraviotta/Prog2AutomaticCorrections-backend.git
+
+Plugin repository: https://github.com/benedettoraviotta/moodle-assignsubmission_p2ac.git
+
+Docker backend: https://hub.docker.com/r/benni54/p2ac-backend
+
